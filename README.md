@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Karim
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👋 Hi, I’m Karim.
+- 👀 I’m interested in java application developer designer.
+- 🌱 I’m currently learning Java SE, Java EE.
+- 💞️ I am looking for an internship for the period from : July 3, 2023 to September 22, 2023
+- 📫 How to reach me : LinkedIn.
