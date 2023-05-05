@@ -2,4 +2,3 @@
 - 👀 I’m interested in java application developer designer.
 - 🌱 I’m currently learning Java SE, Java EE.
 - 💞️ I am looking for an internship for the period from : July 3, 2023 to September 22, 2023
-- 📫 How to reach me : https://www.linkedin.com/in/karim-arfi/
