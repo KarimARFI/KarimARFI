@@ -1,11 +1,13 @@
-<p style="align:center">
+<span style="align:center">
     <img width="200" height="200" src="https://user-images.githubusercontent.com/100566437/236549741-1f00e031-5403-4287-90ef-24c7a7805f3f.png" alt="banner">
-</p>
+</span>
 
-<p>- 👋 Hello, I’m Karim.</p>
-<p>- 👀 I’m interested in java application developer designer.</p>
-<p>- 💼 I’m currently learning Java SE, Java EE.</p>
-<p>- :green_heart: I am looking for an internship for the period from : July 3, 2023 to September 22, 2023</p>
+<span>
+    <span>- 👋 Bien le bonjour, enchanté de vos rcevoir sur mon Git Hub.</span>
+    <span>- 🔎 je recheche en ce moment un stage pour la période du 3 juillet au 22 septembre.<br>&nbsp; &nbsp; pour un poste de concepteur developpeur d'apllication Java ou Full-stack </span>
+    <span>- 💼 J'ai entamé une formation de CDA Java en novembre pour une durée de 11mois au centre AFPA paris 12.</span>
+    <span>- 🔥 VTT, graphique design, Manga et culture 🇯🇵 Japonaise de la période Edo.</span>
+</span>
 
 ### 📈 My stat : ###
 
