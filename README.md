@@ -5,7 +5,7 @@
 <span align="top">
     <span>- 👋 Bien le bonjour, enchanté de vos rcevoir sur mon Git Hub.</span><br>
     <span>- 🔎 je recheche en ce moment un stage pour la période du 3 juillet au 22 septembre.<br>&nbsp; &nbsp; pour un poste de concepteur developpeur d'apllication Java ou Full-stack </span><br>
-    <span>- 💼 J'ai entamé une formation de CDA Java en novembre pour une durée de 11mois au centre AFPA paris 12.</span><br>
+    <span>- 💼 J'ai entamé une formation de C.D.A en langage Java en novembre pour une durée de 11mois au centre AFPA paris 12.</span><br>
     <span>- 🔥 VTT, graphique design, Manga et culture Japonaise de la période Edo.</span><br>
 </span>
 
