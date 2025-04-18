@@ -4,7 +4,7 @@
 
 <span align="top">
     <span>- 👋 Enchanté de vous recevoir sur mon Git Hub.</span><br>
-    <span>- 📜 Récement diplomé Concepteur développeur d'application java. je recheche un pioste de développeur junior.</span><br>
+    <span>- 📜 Récement diplomé Concepteur développeur d'application java. je recheche un poste de développeur junior.</span><br>
     <span>- 🔥 VTT, graphisme et design, Manga et culture Japonaise de la période Edo.</span><br>
 </span>
 
